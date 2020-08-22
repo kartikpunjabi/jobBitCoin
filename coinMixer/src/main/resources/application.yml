@@ -1,0 +1,7 @@
+name: JobCoinMixer
+
+spring:
+  url:
+    apiBaseURL: https://jobcoin.gemini.com/silver-catnip/api
+    apiAddressesUrl: ${spring.url.apiBaseURL}/addresses
+    apiTransactionsUrl: ${spring.url.apiBaseURL}/transactions
