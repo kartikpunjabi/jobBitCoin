@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #### **JobBitCoin**
 
 ### **Getting Started**
@@ -31,8 +32,6 @@ One caveat, command line doesn't like blank/ space entries.
 5. Algo then divides all the coins in equal parts to provided destination address(es)
 6. These house to destination address(es) transaction will be posted with difference of 
 30 seconds(Ideally it should pick random time interval)
-
-
 
 
 
